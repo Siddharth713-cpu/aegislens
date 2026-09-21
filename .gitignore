@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.vscode/
+.idea/
+*.onnx
+*.bin
+*.dll
+*.log
+!docs/*.pptx
+!docs/*.pdf
