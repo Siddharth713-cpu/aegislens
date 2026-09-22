@@ -1,28 +1,16 @@
-\# AegisLens: Edge-Native Multimodal Copilot
+# AegisLens: Edge-Native Multimodal Copilot
 
-
-
-\[!\[Platform](https://img.shields.io/badge/Platform-Windows%20on%20ARM64-0078D4.svg)](https://microsoft.com)
-
-\[!\[Hardware Target](https://img.shields.io/badge/Target-HP%20OmniBook%20X%20(Snapdragon%C2%AE%20X%20Elite)-0096D6.svg)](https://hp.com)
-
-\[!\[NPU Accelerator](https://img.shields.io/badge/NPU-Qualcomm%C2%AE%20Hexagon%E2%84%A2%20(45%20TOPS)-D9381E.svg)](https://qualcomm.com)
-
-\[!\[Qualcomm AI Hub](https://img.shields.io/badge/AI%20Hub-Profile%20jgd3j01lp-6366F1.svg)](https://aihub.qualcomm.com)
-
-
+[![Platform](https://img.shields.io/badge/Platform-Windows_ARM64-0078D4)](https://microsoft.com)
+[![Hardware Target](https://img.shields.io/badge/Target-HP_OmniBook_X-0096D6)](https://hp.com)
+[![Accelerator](https://img.shields.io/badge/NPU-Hexagon_45_TOPS-D9381E)](https://qualcomm.com)
+[![Qualcomm AI Hub](https://img.shields.io/badge/AI_Hub-Profile_jgd3j01lp-6366F1)](https://aihub.qualcomm.com)
 
 > Private by design. Useful in real time. Optimized for Snapdragon®-powered HP PCs (HP OmniBook X).  
+> Built by **Siddharth Goyal** for the **Snapdragon® AI Lab Build & Present Challenge**.
 
-> Built by \*\*Siddharth Goyal\*\* for the \*\*Snapdragon® AI Lab Build \& Present Challenge\*\*.
+---
 
-
-
-\---
-
-
-
-\## 📌 Project Overview
+## 📌 Project Overview
 
 
 
